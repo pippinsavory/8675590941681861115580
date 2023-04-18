@@ -1,0 +1,300 @@
+{
+  "project_info": {
+    "project_number": "349147426246",
+    "project_id": "abc-project-cd1e4",
+    "storage_bucket": "abc-project-cd1e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349147426246:android:4562b7dcff2441103a96c7",
+        "android_client_info": {
+          "package_name": "com.Livewallpaper.Changer.theme4K"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349147426246-k2ub5mncb8j5ld362fthb3ils7r10bhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARuzT9I2fBfKeE0x2w_emkqmafN7qnUKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349147426246-k2ub5mncb8j5ld362fthb3ils7r10bhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349147426246:android:a6a7933744420bb53a96c7",
+        "android_client_info": {
+          "package_name": "com.battle.street.trading.investment.fastloan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349147426246-k2ub5mncb8j5ld362fthb3ils7r10bhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARuzT9I2fBfKeE0x2w_emkqmafN7qnUKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349147426246-k2ub5mncb8j5ld362fthb3ils7r10bhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349147426246:android:a7c37f15c0aaaf193a96c7",
+        "android_client_info": {
+          "package_name": "com.creditcardapply.cardvalidates.binchecks.loan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349147426246-k2ub5mncb8j5ld362fthb3ils7r10bhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARuzT9I2fBfKeE0x2w_emkqmafN7qnUKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349147426246-k2ub5mncb8j5ld362fthb3ils7r10bhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349147426246:android:794e063330086ae33a96c7",
+        "android_client_info": {
+          "package_name": "com.dream.instant.aadharloans.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349147426246-k2ub5mncb8j5ld362fthb3ils7r10bhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARuzT9I2fBfKeE0x2w_emkqmafN7qnUKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349147426246-k2ub5mncb8j5ld362fthb3ils7r10bhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349147426246:android:1cc16eb93ee70c0b3a96c7",
+        "android_client_info": {
+          "package_name": "com.fairlend.fairloans.apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349147426246-k2ub5mncb8j5ld362fthb3ils7r10bhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARuzT9I2fBfKeE0x2w_emkqmafN7qnUKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349147426246-k2ub5mncb8j5ld362fthb3ils7r10bhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349147426246:android:6bb447e6beaa15bc3a96c7",
+        "android_client_info": {
+          "package_name": "com.fintech.mykes.loanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349147426246-k2ub5mncb8j5ld362fthb3ils7r10bhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARuzT9I2fBfKeE0x2w_emkqmafN7qnUKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349147426246-k2ub5mncb8j5ld362fthb3ils7r10bhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349147426246:android:6c0afebd75046fd03a96c7",
+        "android_client_info": {
+          "package_name": "com.ln.gu.an.de.payday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349147426246-k2ub5mncb8j5ld362fthb3ils7r10bhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARuzT9I2fBfKeE0x2w_emkqmafN7qnUKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349147426246-k2ub5mncb8j5ld362fthb3ils7r10bhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349147426246:android:fea019839507e7023a96c7",
+        "android_client_info": {
+          "package_name": "com.mandpbank.grip.apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349147426246-k2ub5mncb8j5ld362fthb3ils7r10bhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARuzT9I2fBfKeE0x2w_emkqmafN7qnUKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349147426246-k2ub5mncb8j5ld362fthb3ils7r10bhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349147426246:android:17371f520c04ece83a96c7",
+        "android_client_info": {
+          "package_name": "com.newhoneygainfreemoney.honeyappshoneygain2023.loan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349147426246-k2ub5mncb8j5ld362fthb3ils7r10bhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARuzT9I2fBfKeE0x2w_emkqmafN7qnUKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349147426246-k2ub5mncb8j5ld362fthb3ils7r10bhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349147426246:android:ddad867879accef83a96c7",
+        "android_client_info": {
+          "package_name": "payday.cash.advance.fast.loansapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349147426246-k2ub5mncb8j5ld362fthb3ils7r10bhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARuzT9I2fBfKeE0x2w_emkqmafN7qnUKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349147426246-k2ub5mncb8j5ld362fthb3ils7r10bhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
